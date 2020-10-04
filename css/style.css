@@ -222,7 +222,7 @@ img {
 	position: relative;
 	text-align: right;
 	text-transform: uppercase;
-	width: 288px;
+
 	z-index: 60;
 }
 #body.home .header div a.more {
@@ -238,7 +238,6 @@ img {
 	margin: 0 200px 0 0;
 	padding: 0;
 	text-align: center;
-	text-transform: uppercase;
 	position: relative;
 	width: 180px;
 	z-index: 55;
